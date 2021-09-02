@@ -130,7 +130,7 @@
     .banner_text { font-size: 20pt;}
     .mens_text { font-size: 25pt;}
     .lorem_text { display: none;}
-    .buy_bt { display: none;}
+    .buy_bt { padding-left: 10px;padding-right: 10px; width: 100%;}
     .more_bt {display: none;}
     .star_icon { width: 23%; }
     .seemore_bt { width: 55%; }
